@@ -1,0 +1,19 @@
+{
+  "name": "mfs-admin-frontend",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.0",
+    "pinia": "^2.0.30",
+    "vue-router": "^4.2.0",
+    "axios": "^1.4.0",
+    "element-plus": "^2.3.0"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
